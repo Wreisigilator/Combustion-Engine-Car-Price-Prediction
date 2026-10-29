@@ -96,9 +96,7 @@ car-price-prediction/
 
 ## Authors
 
-- TODO: Name
-- TODO: Name
-- TODO: Name
-- TODO: Name
-
-Bina Nusantara ASO School of Engineering, Jakarta, Indonesia
+- Jonathan Kusuma
+- Louis Alfa Albertho
+- Winston
+- Stefven Torichie
